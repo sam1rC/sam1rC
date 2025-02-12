@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
 <h3 align="center">A passionate DevOps from Colombia</h3>
 
-- 🌱 I’m currently learning **AWS, Kubernetes and Terraform**
+- 🌱 DevOps/MLOps Engineer from Colombia, experienced in **Azure, Python, AWS and Terraform**. Certified **Terraform Associate** and currently studying to get **AI-102 certification**
 
 - 📫 How to reach me **samircolpas14@gmail.com**
 
