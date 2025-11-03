@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
-<h3 align="center">A passionate DevOps/MLOps from Colombia</h3>
+<h3 align="center">A passionate ML/AI Engineer from Colombia</h3>
 
-- 🌱 DevOps/MLOps Engineer from Colombia, experienced in **Azure, Python, AWS and Terraform**. Certified **Terraform Associate** and currently studying **MLFlow, PyTorch and scikit-learn** for becoming a solid Machine Learning Engineer
+- 🌱 ML/AI Engineer from Colombia, experienced in **scikit-learn, Python, FastAPI, Azure, AWS**. Certified **Terraform Associate** and currently studying **MLFlow** for becoming a more solid Machine Learning Engineer
 
 - 📫 How to reach me **samircolpas14@gmail.com**
 
